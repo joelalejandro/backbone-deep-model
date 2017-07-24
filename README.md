@@ -1,11 +1,13 @@
 ## backbone-deep-model
 
-[![Build Status](https://travis-ci.org/kahwee/backbone-deep-model.svg?branch=master)](https://travis-ci.org/kahwee/backbone-deep-model)
-[![Coverage Status](https://coveralls.io/repos/kahwee/backbone-deep-model/badge.svg?branch=master)](https://coveralls.io/r/kahwee/backbone-deep-model?branch=master)
-[![Code Climate](https://codeclimate.com/github/kahwee/backbone-deep-model/badges/gpa.svg)](https://codeclimate.com/github/kahwee/backbone-deep-model)
-[![npm version](https://badge.fury.io/js/%40kahwee%2Fbackbone-deep-model.svg)](https://badge.fury.io/js/%40kahwee%2Fbackbone-deep-model)
+[![Build Status](https://travis-ci.org/joelalejandro/backbone-deep-model.svg?branch=master)](https://travis-ci.org/joelalejandro/backbone-deep-model)
+[![Coverage Status](https://coveralls.io/repos/joelalejandro/backbone-deep-model/badge.svg?branch=master)](https://coveralls.io/r/joelalejandro/backbone-deep-model?branch=master)
+[![Code Climate](https://codeclimate.com/github/joelalejandro/backbone-deep-model/badges/gpa.svg)](https://codeclimate.com/github/joelalejandro/backbone-deep-model)
+[![npm version](https://badge.fury.io/js/%40joelalejandro%2Fbackbone-deep-model.svg)](https://badge.fury.io/js/%40joelalejandro%2Fbackbone-deep-model)
 
-Forked from https://github.com/powmedia/backbone-deep-model (Thanks for the wonderful work @powmedia!)
+Forked from https://github.com/kawhee/backbone-deep-model (Thanks for the wonderful work @powmedia!)
+
+Same as base repo, except that the package is scopeless.
 
 The test cases are rewritten. This is primarily a browserify package. I'll work on making this work in other platforms if there is interest.
 
